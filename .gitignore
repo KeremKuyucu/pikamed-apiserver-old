@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Geliştirici ortam dosyaları
+.env
+*.env
+*.local
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Glitch özel klasörleri
+.glitch-assets
+
+# VSCode ayarları
+.vscode/
+
+# Geçici dosyalar
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Test/coverage dosyaları
+coverage/
+*.lcov
+
+# Derleme çıktıları
+dist/
+build/
+
+# Log dosyaları
+logs/
+*.log
+
+# IDE'ler
+.idea/
+*.iml
